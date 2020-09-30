@@ -8,8 +8,8 @@ from glob import glob
 import tensorflow as tf
 
 def load_data(path):
-    images = glob(os.path.join(path, "images/*"))
-    masks = glob(os.path.join(path, "masks/*"))
+    images = sorted(glob(os.path.join(path, "images/*")))
+    masks = sorted(glob(os.path.join(path, "masks/*")))
 
     return images, masks
 
