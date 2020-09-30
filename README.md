@@ -2,6 +2,6 @@
 
 A simple code for building an input dataset pipeline for semantic segmentation using TensorFlow tf.data API.
 
-[Image](image.png)
-[Mask](mask.png)
-
+| ![Image](image.png) ![Mask](mask.png) |
+| :--: |
+| *Image and its respective mask* |
