@@ -2,7 +2,7 @@
 
 A simple code for building an input dataset pipeline for semantic segmentation using TensorFlow tf.data API.
 <br/><br/>
-Video explaination: (https://youtu.be/C5CbsTDwQM0)[https://youtu.be/C5CbsTDwQM0]
+Video explaination: [https://youtu.be/C5CbsTDwQM0](https://youtu.be/C5CbsTDwQM0)
 
 | ![Image](image.png) ![Mask](mask.png) |
 | :--: |
